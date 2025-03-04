@@ -30,7 +30,7 @@ export default function Navbar() {
 
           <div className="hidden md:flex items-center">
           <a
-  href="https://calendly.com/mulinyafadhil/coffee-chat-s-with-fadhil"
+  href="https://calendly.com/"
   target="_blank"
   rel="noopener noreferrer"
 >
